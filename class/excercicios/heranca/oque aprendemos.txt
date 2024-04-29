@@ -1,0 +1,9 @@
+Aqui está um resumo dos tópicos ensinados nesta aula:
+Criamos a classe principal chamada ItemCardapio com um construtor que aceita os parâmetros nome e preço;
+
+Implementamos duas classes chamadas Bebida e Prato que herdam atributos e métodos da classe ItemCardapio, utilizando super() no construtor para aproveitar a estrutura da classe pai;
+
+Criamos objetos das classes Prato e Bebida, demonstrando como a herança pode ser utilizada para compartilhar funcionalidades entre diferentes tipos de itens de cardápio.
+
+Na próxima aula:
+Vamos dominar o polimorfismo e métodos abstratos simplificando a criação de software modular, flexível e de fácil manutenção de forma prática e inspirada no mundo real!

@@ -1,0 +1,8 @@
+Nesta aula:
+Aprendemos a importar classes em arquivos Python, utilizando essa habilidade para importar a classe Restaurante para o arquivo principal (main.py), permitindo-nos utilizar suas funcionalidades em nosso programa.
+
+Exploramos ainda mais os princípios da Programação Orientada a Objetos (OO), criando uma nova classe para reforçar conceitos fundamentais. Entendemos como a criação de classes e instâncias proporciona uma estrutura organizada e modular para o código.
+
+Avançamos na integração entre classes, especificamente entre as classes Restaurante e Avaliação. Agora, temos uma lista de objetos de avaliação associados a cada restaurante, demonstrando a relação e interdependência entre diferentes entidades em um sistema.
+
+Utilizamos técnicas de listagem para criar funcionalidades que nos permitem visualizar as avaliações associadas a cada restaurante. Isso consolidou nosso entendimento sobre como gerenciar e apresentar dados de maneira eficiente em nossos programas.
