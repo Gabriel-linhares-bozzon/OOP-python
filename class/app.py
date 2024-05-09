@@ -16,7 +16,7 @@ prato_pizza = Prato("Pizza Margherita", 20.0, "Pizza")
 restaurante1.adicinionar_no_cardapio(prato_pizza)
 
 def main(): 
-   print( restaurante2.exibir_cardapio)    
+   print( restaurante1.exibir_cardapio)    
 
 
 if __name__ == '__main__':
